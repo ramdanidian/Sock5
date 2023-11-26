@@ -1,24 +1,3 @@
-PERHATIAN!!!
-Kami tidak mengizinkan penggunaan proxy SOCKS5 kami untuk
-pemeriksaan atau penggunaan alat otomatis. Sistem kami dapat dengan
-cepat mendeteksi penggunaan tersebut dan akan memblokir IP secara permanen.
-
-PROXY RESIDENTIAL/BISNIS STATIS BULANAN
-200 IP/ HARI  IDR 200K
-500 IP/HARI IDR 350K
-1000 IP/HARI IDR 800K
-
-IP negara dipilih berdasarkan:
-A. Riwayat High CPM YouTube.
-B. Expired IP random (maksimal 20 jam).
-C. Ketersediaan server, dll.
-
-BOT >> Mode SOCKS5
-HandPhone >> Super Proxy https://play.google.com/store/apps/details?id=com.scheler.superproxy
-Chrome Desktop >> FoxyProxy Basic https://chrome.google.com/webstore/detail/foxyproxy-basic/dookpfaalaaappcdneeahomimbllocnb?hl=en
-
-
-US (UNITED STATE)
 67.213.210.61:28257
 37.221.193.221:13858
 37.221.193.221:11262
